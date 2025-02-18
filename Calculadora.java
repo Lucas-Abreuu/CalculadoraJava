@@ -1,5 +1,5 @@
 
-public class Calculadora {
+class Calculadora {
 
 	
 	// METODOS DA CALCULADORA
